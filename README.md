@@ -88,6 +88,9 @@ Ao executar, você verá:
 
 3.  Execute **opção 2** para criptografá-los.
 
+   <img width="566" height="106" alt="image" src="https://github.com/user-attachments/assets/fc409229-bf7b-47dc-8e5f-28012dbdd322" />
+
+
 ------------------------------------------------------------------------
 
 ## 🔓 6. Processo de Descriptografia
