@@ -44,7 +44,6 @@ Responsável por descriptografar arquivos também dentro da pasta
 
 Menu principal que chama todas as funções acima.
 
-<img width="555" height="138" alt="image" src="https://github.com/user-attachments/assets/636f0dcc-75e3-4e6e-a274-830e3ba7bb0a" />
 
 
 
