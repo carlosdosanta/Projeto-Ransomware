@@ -99,5 +99,8 @@ Se quiser reverter:
 
     3 - Descriptografar arquivos
 
+    <img width="625" height="98" alt="image" src="https://github.com/user-attachments/assets/f420bc93-87bf-4657-b671-6435fa6b2d2e" />
+
+
 ------------------------------------------------------------------------
 
