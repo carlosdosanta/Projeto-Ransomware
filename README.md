@@ -79,7 +79,8 @@ Ao executar, você verá:
 
 1.  Gere a chave **(opção 1)** --- será criado o arquivo `key.key`.
 
-<img width="264" height="273" alt="image" src="https://github.com/user-attachments/assets/f5c1cc73-9b84-40e9-aa47-a0e8233601ac" />
+<img width="753" height="120" alt="image" src="https://github.com/user-attachments/assets/13f908be-2a32-45ae-9898-e72257070b3c" />
+
 
 2.  Coloque arquivos de teste na pasta `test_files`.
 
