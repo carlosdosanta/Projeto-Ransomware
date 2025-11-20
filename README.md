@@ -78,7 +78,13 @@ Ao executar, você verá:
 ## 🔐 5. Processo de Criptografia
 
 1.  Gere a chave **(opção 1)** --- será criado o arquivo `key.key`.
+
+<img width="264" height="273" alt="image" src="https://github.com/user-attachments/assets/f5c1cc73-9b84-40e9-aa47-a0e8233601ac" />
+
 2.  Coloque arquivos de teste na pasta `test_files`.
+
+<img width="771" height="167" alt="image" src="https://github.com/user-attachments/assets/27bf28c1-5ff5-486a-9f79-980e8baffa4a" />
+
 3.  Execute **opção 2** para criptografá-los.
 
 ------------------------------------------------------------------------
