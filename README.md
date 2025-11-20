@@ -23,6 +23,8 @@ seguintes arquivos:
 
 
 ------------------------------------------------------------------------
+<img width="266" height="261" alt="image" src="https://github.com/user-attachments/assets/dd918871-11b8-48ae-bea9-877db65719d0" />
+
 
 ## 🧩 2. Função de Cada Arquivo
 
