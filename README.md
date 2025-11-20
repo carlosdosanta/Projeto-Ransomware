@@ -1,4 +1,4 @@
-# Guia de Execução do Projeto de Criptografia (Faculdade)
+# Desafio de Projeto Que Simula Um Ransomware no VScode Criptografando Arquivos do Usuário em Ambiente Controlado (BootCamp Santander - Cibersegurança 2025)
 
 Este documento descreve o passo a passo completo para rodar o projeto de
 criptografia em Python, incluindo estrutura do projeto, execução e
@@ -40,6 +40,11 @@ Responsável por descriptografar arquivos também dentro da pasta
 ### **main.py**
 
 Menu principal que chama todas as funções acima.
+
+<img width="555" height="138" alt="image" src="https://github.com/user-attachments/assets/636f0dcc-75e3-4e6e-a274-830e3ba7bb0a" />
+
+
+
 
 ------------------------------------------------------------------------
 
@@ -84,23 +89,3 @@ Se quiser reverter:
 
 ------------------------------------------------------------------------
 
-## 📝 7. Subindo no GitHub
-
-1.  No VS Code, abra o terminal.
-2.  Rode:
-
-```{=html}
-<!-- -->
-```
-    git init
-    git add .
-    git commit -m "Projeto de criptografia"
-    git branch -M main
-    git remote add origin https://github.com/seuusuario/seurepositorio.git
-    git push -u origin main
-
-------------------------------------------------------------------------
-
-## ✔️ Projeto pronto!
-
-Esse README.md está pronto para ser enviado ao GitHub.
