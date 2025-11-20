@@ -19,10 +19,12 @@ seguintes arquivos:
     └── test_files/
            seus_arquivos_para_teste.txt
 
-           <img width="264" height="273" alt="image" src="https://github.com/user-attachments/assets/f6334273-b2b9-48c5-83f8-99c31ffa2698" />
+           
 
 
 ------------------------------------------------------------------------
+<img width="264" height="273" alt="image" src="https://github.com/user-attachments/assets/de234e52-91d8-4f42-a099-edb50951b41f" />
+
 
 ## 🧩 2. Função de Cada Arquivo
 
