@@ -1,4 +1,4 @@
-# Desafio de Projeto Que Simula Um Ransomware no VScode Criptografando Arquivos do Usuário em Ambiente Controlado (BootCamp Santander - Cibersegurança 2025)
+# Desafio de Projeto - Simula um Ransomware no VScode Criptografando Arquivos do Usuário em Ambiente Controlado (BootCamp Santander - Cibersegurança 2025)
 
 Este documento descreve o passo a passo completo para rodar o projeto de
 criptografia em Python, incluindo estrutura do projeto, execução e
@@ -18,6 +18,9 @@ seguintes arquivos:
     │ descriptografar.py
     └── test_files/
            seus_arquivos_para_teste.txt
+
+           <img width="264" height="273" alt="image" src="https://github.com/user-attachments/assets/f6334273-b2b9-48c5-83f8-99c31ffa2698" />
+
 
 ------------------------------------------------------------------------
 
@@ -55,10 +58,7 @@ Menu principal que chama todas as funções acima.
     **Ctrl + \`**
 3.  Execute o script principal:
 
-```{=html}
-<!-- -->
-```
-    python main.py
+4. comando: python main.py
 
 ------------------------------------------------------------------------
 
