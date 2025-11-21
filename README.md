@@ -106,8 +106,7 @@ Se quiser reverter:
 
 ------------------------------------------------------------------------
 
-## 🔓 6. Processo de Descriptografia
-##🛡️ 7. Medidas de Mitigação (Prevenção) de Ransomware
+## 🛡️ 7. Medidas de Mitigação Contra Ransomware
 
 As principais estratégias para prevenir um ataque de ransomware são:
 
@@ -127,8 +126,10 @@ Configure firewalls de rede e baseados em host para bloquear conexões de entrad
 
 Use ferramentas de filtragem de e-mail para colocar em quarentena anexos e URLs suspeitas.
 
+
+🚨 8. O que Fazer Depois da Infecçao?
 ------------------------------------------------------------------------
-##🚨 8. O Que Fazer Depois da Infecção
+
 Se você ou sua organização sofrer um ataque de ransomware, as etapas de resposta devem ser seguidas imediatamente e com calma para conter a propagação e iniciar a recuperação:
 
 1. Isolamento e Contenção
@@ -162,4 +163,4 @@ Altere todas as senhas e reforce a segurança (revisite as medidas de mitigaçã
 
 Treine novamente a equipe sobre as lições aprendidas com o incidente.
  
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-henrique-80365897/)
+Meu Linkedin: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-henrique-80365897/)
