@@ -104,32 +104,19 @@ Se quiser reverter:
 ------------------------------------------------------------------------
  <img width="625" height="98" alt="image" src="https://github.com/user-attachments/assets/f420bc93-87bf-4657-b671-6435fa6b2d2e" />
 
-🛡️ Medidas de Mitigação (Prevenção) de Ransomware
+------------------------------------------------------------------------
+##🛡️ 7. Medidas de Mitigação (Prevenção) de Ransomware
+
 As principais estratégias para prevenir um ataque de ransomware são:
 
 1. Backups Regulares e Seguros
-Crie backups frequentes de todos os dados críticos.
-
-Implemente a regra 3-2-1: tenha três cópias de seus dados, em dois tipos de mídia diferentes, com uma cópia armazenada offline (isolada da rede, como em um armazenamento em nuvem protegido ou mídia removível desconectada). Isso garante que, mesmo que a rede seja infectada, você pode restaurar seus dados.
 
 2. Atualização de Sistemas e Software
 Mantenha o sistema operacional, aplicativos e firmware sempre atualizados (com patching em dia). As atualizações frequentemente corrigem vulnerabilidades de segurança que o ransomware pode explorar.
 
 3. Conscientização e Treinamento do Usuário
-O phishing e e-mails maliciosos são vetores comuns. Treine você e sua equipe para:
-
-Identificar e-mails e sites suspeitos (verificar o remetente, a gramática, links estranhos, etc.).
-
-Não clicar em links não verificados ou em pop-ups de sites desconhecidos.
-
-Não abrir anexos de e-mail suspeitos, especialmente aqueles que solicitam a habilitação de macros.
 
 4. Segurança de Acesso e Redes
-Use a Autenticação Multifator (MFA) em todos os serviços, contas e pontos de acesso remoto (como VPNs e RDP - Desktop Remoto).
-
-Implemente o princípio do menor privilégio, ou seja, conceda aos usuários apenas as permissões de acesso e de administrador estritamente necessárias para o trabalho.
-
-Segmente a rede (divida-a em zonas menores) para impedir que o ransomware se espalhe facilmente.
 
 5. Ferramentas de Proteção
 Utilize soluções robustas de antivírus e anti-malware em todos os dispositivos, e certifique-se de que estão ativas e atualizadas.
@@ -138,7 +125,8 @@ Configure firewalls de rede e baseados em host para bloquear conexões de entrad
 
 Use ferramentas de filtragem de e-mail para colocar em quarentena anexos e URLs suspeitas.
 
-🚨 O Que Fazer Depois da Infecção
+------------------------------------------------------------------------
+##🚨 8. O Que Fazer Depois da Infecção
 Se você ou sua organização sofrer um ataque de ransomware, as etapas de resposta devem ser seguidas imediatamente e com calma para conter a propagação e iniciar a recuperação:
 
 1. Isolamento e Contenção
