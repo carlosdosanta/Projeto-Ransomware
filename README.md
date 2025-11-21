@@ -103,3 +103,5 @@ Se quiser reverter:
 
 ------------------------------------------------------------------------
  <img width="625" height="98" alt="image" src="https://github.com/user-attachments/assets/f420bc93-87bf-4657-b671-6435fa6b2d2e" />
+
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-henrique-80365897/)
